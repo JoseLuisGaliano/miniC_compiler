@@ -9,7 +9,7 @@ Usando una distribución de Linux, abrir con una terminal el directorio "Compila
 ```
 $ make
 $ ./compilador > prueba.s 2> errores
-$ prueba.mc
+prueba.mc                               // El programa espera que pases el fichero de entrada
 $ usr/bin/spim -file prueba.s
 ```
 
