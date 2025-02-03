@@ -14,3 +14,5 @@ $ usr/bin/spim -file prueba.s
 ```
 
 **Fecha de desarrollo**: Marzo - Mayo 2022
+
+Desarollado como proyecto de prácticas de la asignatura COMPILADORES en la Facultad de Informática de la Universidad de Murcia
